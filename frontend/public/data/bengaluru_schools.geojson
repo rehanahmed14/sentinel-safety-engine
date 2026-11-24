@@ -1,0 +1,3035 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Bengaluru",
+    "region": "Karnataka, India",
+    "source": "OpenStreetMap & Department of Collegiate & School Education, Bengaluru",
+    "total_zones": 53,
+    "colleges_count": 26,
+    "schools_count": 27,
+    "generated_at": "2026-11-19"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-001",
+      "properties": {
+        "zone_id": "BLR-COL-001",
+        "name": "Indian Institute of Science (IISc)",
+        "amenity": "university",
+        "institution_type": "Premier Research & Science University",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "07:00 - 19:00 IST",
+        "address": "CV Raman Road, Sadashivanagar",
+        "center": [
+          77.5671,
+          13.0219
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.570984,
+              13.0219
+            ],
+            [
+              77.569211,
+              13.025462
+            ],
+            [
+              77.564883,
+              13.025642
+            ],
+            [
+              77.562658,
+              13.0219
+            ],
+            [
+              77.564979,
+              13.01832
+            ],
+            [
+              77.569055,
+              13.018601
+            ],
+            [
+              77.570984,
+              13.0219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-002",
+      "properties": {
+        "zone_id": "BLR-COL-002",
+        "name": "RV College of Engineering (RVCE)",
+        "amenity": "college",
+        "institution_type": "Autonomous Engineering College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 17:30 IST",
+        "address": "RV Vidyaniketan Post, Mysuru Road",
+        "center": [
+          77.4987,
+          12.9237
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.501935,
+              12.9237
+            ],
+            [
+              77.500458,
+              12.926669
+            ],
+            [
+              77.496853,
+              12.926818
+            ],
+            [
+              77.495,
+              12.9237
+            ],
+            [
+              77.496933,
+              12.920717
+            ],
+            [
+              77.500328,
+              12.920951
+            ],
+            [
+              77.501935,
+              12.9237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-003",
+      "properties": {
+        "zone_id": "BLR-COL-003",
+        "name": "PES University (RR Campus)",
+        "amenity": "university",
+        "institution_type": "Technical Deemed University",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 17:30 IST",
+        "address": "100 Feet Ring Road, BSK 3rd Stage",
+        "center": [
+          77.5345,
+          12.9344
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.537458,
+              12.9344
+            ],
+            [
+              77.536108,
+              12.937114
+            ],
+            [
+              77.532811,
+              12.937251
+            ],
+            [
+              77.531117,
+              12.9344
+            ],
+            [
+              77.532884,
+              12.931673
+            ],
+            [
+              77.535989,
+              12.931887
+            ],
+            [
+              77.537458,
+              12.9344
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-004",
+      "properties": {
+        "zone_id": "BLR-COL-004",
+        "name": "BMS College of Engineering (BMSCE)",
+        "amenity": "college",
+        "institution_type": "Autonomous Engineering College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 17:00 IST",
+        "address": "Bull Temple Road, Basavanagudi",
+        "center": [
+          77.5655,
+          12.9416
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.568088,
+              12.9416
+            ],
+            [
+              77.566907,
+              12.943975
+            ],
+            [
+              77.564022,
+              12.944094
+            ],
+            [
+              77.562539,
+              12.9416
+            ],
+            [
+              77.564086,
+              12.939214
+            ],
+            [
+              77.566803,
+              12.939401
+            ],
+            [
+              77.568088,
+              12.9416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-005",
+      "properties": {
+        "zone_id": "BLR-COL-005",
+        "name": "M.S. Ramaiah Institute of Technology (MSRIT)",
+        "amenity": "college",
+        "institution_type": "Autonomous Engineering Institute",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 17:30 IST",
+        "address": "MSR Nagar, MSRIT Post, Mathikere",
+        "center": [
+          77.5649,
+          13.0315
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.567674,
+              13.0315
+            ],
+            [
+              77.566408,
+              13.034044
+            ],
+            [
+              77.563316,
+              13.034173
+            ],
+            [
+              77.561727,
+              13.0315
+            ],
+            [
+              77.563385,
+              13.028943
+            ],
+            [
+              77.566296,
+              13.029144
+            ],
+            [
+              77.567674,
+              13.0315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-006",
+      "properties": {
+        "zone_id": "BLR-COL-006",
+        "name": "M.S. Ramaiah Medical College",
+        "amenity": "college",
+        "institution_type": "Medical College & Super Specialty Hospital",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "24/7 Zone (Hospital & College)",
+        "address": "MSR Nagar, Mathikere",
+        "center": [
+          77.5684,
+          13.0298
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.570989,
+              13.0298
+            ],
+            [
+              77.569807,
+              13.032175
+            ],
+            [
+              77.566922,
+              13.032294
+            ],
+            [
+              77.565438,
+              13.0298
+            ],
+            [
+              77.566986,
+              13.027414
+            ],
+            [
+              77.569703,
+              13.027601
+            ],
+            [
+              77.570989,
+              13.0298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-007",
+      "properties": {
+        "zone_id": "BLR-COL-007",
+        "name": "Christ University (Central Campus)",
+        "amenity": "university",
+        "institution_type": "Multidisciplinary Deemed University",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 18:00 IST",
+        "address": "Hosur Road, Bhavani Nagar, SG Palya",
+        "center": [
+          77.6062,
+          12.9342
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.609158,
+              12.9342
+            ],
+            [
+              77.607808,
+              12.936914
+            ],
+            [
+              77.604511,
+              12.937051
+            ],
+            [
+              77.602817,
+              12.9342
+            ],
+            [
+              77.604584,
+              12.931473
+            ],
+            [
+              77.607689,
+              12.931687
+            ],
+            [
+              77.609158,
+              12.9342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-008",
+      "properties": {
+        "zone_id": "BLR-COL-008",
+        "name": "St. Joseph's University",
+        "amenity": "university",
+        "institution_type": "Jesuit Private University",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 17:00 IST",
+        "address": "36 Lalbagh Road / Langford Road, Shanthi Nagar",
+        "center": [
+          77.5975,
+          12.9615
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.599719,
+              12.9615
+            ],
+            [
+              77.598706,
+              12.963536
+            ],
+            [
+              77.596233,
+              12.963638
+            ],
+            [
+              77.594962,
+              12.9615
+            ],
+            [
+              77.596288,
+              12.959454
+            ],
+            [
+              77.598617,
+              12.959615
+            ],
+            [
+              77.599719,
+              12.9615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-009",
+      "properties": {
+        "zone_id": "BLR-COL-009",
+        "name": "St. Joseph's College of Commerce",
+        "amenity": "college",
+        "institution_type": "Autonomous Commerce College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "07:30 - 16:30 IST",
+        "address": "163 Brigade Road, Ashok Nagar",
+        "center": [
+          77.6074,
+          12.9719
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.609064,
+              12.9719
+            ],
+            [
+              77.608305,
+              12.973427
+            ],
+            [
+              77.60645,
+              12.973504
+            ],
+            [
+              77.605497,
+              12.9719
+            ],
+            [
+              77.606491,
+              12.970366
+            ],
+            [
+              77.608238,
+              12.970486
+            ],
+            [
+              77.609064,
+              12.9719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-010",
+      "properties": {
+        "zone_id": "BLR-COL-010",
+        "name": "Mount Carmel College (MCC)",
+        "amenity": "college",
+        "institution_type": "Autonomous Women's College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 16:30 IST",
+        "address": "58 Palace Road, Vasanth Nagar",
+        "center": [
+          77.5898,
+          12.9902
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.591926,
+              12.9902
+            ],
+            [
+              77.590956,
+              12.992151
+            ],
+            [
+              77.588586,
+              12.992249
+            ],
+            [
+              77.587368,
+              12.9902
+            ],
+            [
+              77.588639,
+              12.98824
+            ],
+            [
+              77.59087,
+              12.988394
+            ],
+            [
+              77.591926,
+              12.9902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-011",
+      "properties": {
+        "zone_id": "BLR-COL-011",
+        "name": "Bangalore Medical College & Research Institute (BMCRI)",
+        "amenity": "college",
+        "institution_type": "Premier Government Medical College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "24/7 Clinical & Academic Zone",
+        "address": "Fort, KR Road, Kalasipalya",
+        "center": [
+          77.5752,
+          12.961
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.577973,
+              12.961
+            ],
+            [
+              77.576707,
+              12.963544
+            ],
+            [
+              77.573617,
+              12.963673
+            ],
+            [
+              77.572028,
+              12.961
+            ],
+            [
+              77.573685,
+              12.958443
+            ],
+            [
+              77.576596,
+              12.958644
+            ],
+            [
+              77.577973,
+              12.961
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-012",
+      "properties": {
+        "zone_id": "BLR-COL-012",
+        "name": "St. John's Medical College",
+        "amenity": "college",
+        "institution_type": "Medical College & Academy of Health Sciences",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "24/7 Hospital & Medical Campus",
+        "address": "100 Feet Road, Koramangala",
+        "center": [
+          77.621,
+          12.9315
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.624328,
+              12.9315
+            ],
+            [
+              77.622809,
+              12.934553
+            ],
+            [
+              77.6191,
+              12.934707
+            ],
+            [
+              77.617194,
+              12.9315
+            ],
+            [
+              77.619182,
+              12.928432
+            ],
+            [
+              77.622675,
+              12.928673
+            ],
+            [
+              77.624328,
+              12.9315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-013",
+      "properties": {
+        "zone_id": "BLR-COL-013",
+        "name": "Jyoti Nivas College (Autonomous)",
+        "amenity": "college",
+        "institution_type": "Autonomous Degree College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 16:30 IST",
+        "address": "Hosur Road, Koramangala 5th Block",
+        "center": [
+          77.6182,
+          12.9338
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.620234,
+              12.9338
+            ],
+            [
+              77.619305,
+              12.935666
+            ],
+            [
+              77.617039,
+              12.93576
+            ],
+            [
+              77.615874,
+              12.9338
+            ],
+            [
+              77.617089,
+              12.931925
+            ],
+            [
+              77.619224,
+              12.932072
+            ],
+            [
+              77.620234,
+              12.9338
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-014",
+      "properties": {
+        "zone_id": "BLR-COL-014",
+        "name": "National Law School of India University (NLSIU)",
+        "amenity": "university",
+        "institution_type": "Premier National Law University",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 19:00 IST",
+        "address": "Gnana Bharathi Main Road, Nagarbhavi",
+        "center": [
+          77.5085,
+          12.9554
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.511366,
+              12.9554
+            ],
+            [
+              77.510058,
+              12.958029
+            ],
+            [
+              77.506864,
+              12.958162
+            ],
+            [
+              77.505222,
+              12.9554
+            ],
+            [
+              77.506935,
+              12.952758
+            ],
+            [
+              77.509942,
+              12.952965
+            ],
+            [
+              77.511366,
+              12.9554
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-015",
+      "properties": {
+        "zone_id": "BLR-COL-015",
+        "name": "IIIT Bangalore (Electronic City)",
+        "amenity": "university",
+        "institution_type": "Information Technology Institute",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:30 - 18:00 IST",
+        "address": "26/C, Hosur Road, Electronic City Phase 1",
+        "center": [
+          77.6653,
+          12.8407
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.667795,
+              12.8407
+            ],
+            [
+              77.666656,
+              12.84299
+            ],
+            [
+              77.663876,
+              12.843105
+            ],
+            [
+              77.662446,
+              12.8407
+            ],
+            [
+              77.663937,
+              12.838399
+            ],
+            [
+              77.666556,
+              12.838579
+            ],
+            [
+              77.667795,
+              12.8407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-016",
+      "properties": {
+        "zone_id": "BLR-COL-016",
+        "name": "Dayananda Sagar College of Engineering (DSCE)",
+        "amenity": "college",
+        "institution_type": "Engineering College & Innovation Campus",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 17:30 IST",
+        "address": "Shavige Malleshwara Hills, Kumaraswamy Layout",
+        "center": [
+          77.5667,
+          12.9081
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.569658,
+              12.9081
+            ],
+            [
+              77.568308,
+              12.910814
+            ],
+            [
+              77.565011,
+              12.910951
+            ],
+            [
+              77.563317,
+              12.9081
+            ],
+            [
+              77.565085,
+              12.905373
+            ],
+            [
+              77.568189,
+              12.905587
+            ],
+            [
+              77.569658,
+              12.9081
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-017",
+      "properties": {
+        "zone_id": "BLR-COL-017",
+        "name": "University Visvesvaraya College of Engineering (UVCE)",
+        "amenity": "college",
+        "institution_type": "Historic State Engineering College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:30 - 17:00 IST",
+        "address": "KR Circle, Dr. Ambedkar Veedhi",
+        "center": [
+          77.5866,
+          12.9754
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.588634,
+              12.9754
+            ],
+            [
+              77.587706,
+              12.977266
+            ],
+            [
+              77.585439,
+              12.97736
+            ],
+            [
+              77.584274,
+              12.9754
+            ],
+            [
+              77.585489,
+              12.973525
+            ],
+            [
+              77.587624,
+              12.973672
+            ],
+            [
+              77.588634,
+              12.9754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-018",
+      "properties": {
+        "zone_id": "BLR-COL-018",
+        "name": "New Horizon College of Engineering",
+        "amenity": "college",
+        "institution_type": "Autonomous Engineering College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 17:30 IST",
+        "address": "Outer Ring Road, Near Marathahalli",
+        "center": [
+          77.6917,
+          12.9366
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.694288,
+              12.9366
+            ],
+            [
+              77.693107,
+              12.938975
+            ],
+            [
+              77.690222,
+              12.939094
+            ],
+            [
+              77.68874,
+              12.9366
+            ],
+            [
+              77.690286,
+              12.934214
+            ],
+            [
+              77.693003,
+              12.934401
+            ],
+            [
+              77.694288,
+              12.9366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-019",
+      "properties": {
+        "zone_id": "BLR-COL-019",
+        "name": "CMR Institute of Technology (CMRIT)",
+        "amenity": "college",
+        "institution_type": "Technical Institute",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 17:00 IST",
+        "address": "132 AECS Layout, ITPL Main Road, Kundalahalli",
+        "center": [
+          77.7126,
+          12.9667
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.714911,
+              12.9667
+            ],
+            [
+              77.713856,
+              12.96882
+            ],
+            [
+              77.711281,
+              12.968927
+            ],
+            [
+              77.709956,
+              12.9667
+            ],
+            [
+              77.711338,
+              12.964569
+            ],
+            [
+              77.713763,
+              12.964737
+            ],
+            [
+              77.714911,
+              12.9667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-020",
+      "properties": {
+        "zone_id": "BLR-COL-020",
+        "name": "The Oxford College of Engineering",
+        "amenity": "college",
+        "institution_type": "Engineering & Technology Campus",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 17:00 IST",
+        "address": "10th Milestone, Hosur Road, Bommanahalli",
+        "center": [
+          77.6225,
+          12.8988
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.624718,
+              12.8988
+            ],
+            [
+              77.623706,
+              12.900836
+            ],
+            [
+              77.621234,
+              12.900938
+            ],
+            [
+              77.619963,
+              12.8988
+            ],
+            [
+              77.621288,
+              12.896754
+            ],
+            [
+              77.623616,
+              12.896915
+            ],
+            [
+              77.624718,
+              12.8988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-021",
+      "properties": {
+        "zone_id": "BLR-COL-021",
+        "name": "Bangalore University (Jnana Bharathi Campus)",
+        "amenity": "university",
+        "institution_type": "State Public University",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 18:00 IST",
+        "address": "Jnana Bharathi, Mysore Road",
+        "center": [
+          77.5082,
+          12.9463
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.512822,
+              12.9463
+            ],
+            [
+              77.510712,
+              12.950541
+            ],
+            [
+              77.505561,
+              12.950754
+            ],
+            [
+              77.502913,
+              12.9463
+            ],
+            [
+              77.505675,
+              12.942039
+            ],
+            [
+              77.510526,
+              12.942373
+            ],
+            [
+              77.512822,
+              12.9463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-022",
+      "properties": {
+        "zone_id": "BLR-COL-022",
+        "name": "Presidency College (Hebbal)",
+        "amenity": "college",
+        "institution_type": "Management & Arts College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 16:30 IST",
+        "address": "33/2C, Kempapura, Hebbal",
+        "center": [
+          77.5937,
+          13.0518
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.595735,
+              13.0518
+            ],
+            [
+              77.594806,
+              13.053666
+            ],
+            [
+              77.592538,
+              13.05376
+            ],
+            [
+              77.591373,
+              13.0518
+            ],
+            [
+              77.592589,
+              13.049925
+            ],
+            [
+              77.594724,
+              13.050072
+            ],
+            [
+              77.595735,
+              13.0518
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-023",
+      "properties": {
+        "zone_id": "BLR-COL-023",
+        "name": "Jain University (City Campus)",
+        "amenity": "university",
+        "institution_type": "Deemed-to-be University",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 17:00 IST",
+        "address": "District Fund Road, Jayanagar 9th Block",
+        "center": [
+          77.5925,
+          12.9195
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.594441,
+              12.9195
+            ],
+            [
+              77.593555,
+              12.921281
+            ],
+            [
+              77.591392,
+              12.921371
+            ],
+            [
+              77.59028,
+              12.9195
+            ],
+            [
+              77.59144,
+              12.91771
+            ],
+            [
+              77.593477,
+              12.917851
+            ],
+            [
+              77.594441,
+              12.9195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-024",
+      "properties": {
+        "zone_id": "BLR-COL-024",
+        "name": "BMS Institute of Technology & Management (BMSIT)",
+        "amenity": "college",
+        "institution_type": "Engineering Institute",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 17:00 IST",
+        "address": "Doddaballapur Main Road, Avalahalli, Yelahanka",
+        "center": [
+          77.5678,
+          13.1332
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.57039,
+              13.1332
+            ],
+            [
+              77.569208,
+              13.135575
+            ],
+            [
+              77.566321,
+              13.135694
+            ],
+            [
+              77.564837,
+              13.1332
+            ],
+            [
+              77.566385,
+              13.130814
+            ],
+            [
+              77.569104,
+              13.131001
+            ],
+            [
+              77.57039,
+              13.1332
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-025",
+      "properties": {
+        "zone_id": "BLR-COL-025",
+        "name": "Shri Atal Bihari Vajpayee Medical College",
+        "amenity": "college",
+        "institution_type": "Government Medical College",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "24/7 Clinical & Academic Zone",
+        "address": "Lady Curzon Road, Shivaji Nagar",
+        "center": [
+          77.604,
+          12.983
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.606219,
+              12.983
+            ],
+            [
+              77.605206,
+              12.985036
+            ],
+            [
+              77.602733,
+              12.985138
+            ],
+            [
+              77.601462,
+              12.983
+            ],
+            [
+              77.602788,
+              12.980954
+            ],
+            [
+              77.605117,
+              12.981115
+            ],
+            [
+              77.606219,
+              12.983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-col-026",
+      "properties": {
+        "zone_id": "BLR-COL-026",
+        "name": "Dr. B.R. Ambedkar Medical College",
+        "amenity": "college",
+        "institution_type": "Medical College & Hospital",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "24/7 Medical Zone",
+        "address": "Kadugondanahalli",
+        "center": [
+          77.6215,
+          13.0185
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.623904,
+              13.0185
+            ],
+            [
+              77.622807,
+              13.020705
+            ],
+            [
+              77.620127,
+              13.020816
+            ],
+            [
+              77.61875,
+              13.0185
+            ],
+            [
+              77.620187,
+              13.016284
+            ],
+            [
+              77.62271,
+              13.016458
+            ],
+            [
+              77.623904,
+              13.0185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-001",
+      "properties": {
+        "zone_id": "BLR-SCH-001",
+        "name": "Bishop Cotton Boys' School",
+        "amenity": "school",
+        "institution_type": "Historic ICSE Heritage School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "07:30 - 15:30 IST",
+        "address": "St. Mark's Road, Ashok Nagar",
+        "center": [
+          77.6012,
+          12.9719
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.603141,
+              12.9719
+            ],
+            [
+              77.602255,
+              12.973681
+            ],
+            [
+              77.600092,
+              12.973771
+            ],
+            [
+              77.598979,
+              12.9719
+            ],
+            [
+              77.60014,
+              12.97011
+            ],
+            [
+              77.602177,
+              12.970251
+            ],
+            [
+              77.603141,
+              12.9719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-002",
+      "properties": {
+        "zone_id": "BLR-SCH-002",
+        "name": "Bishop Cotton Girls' School",
+        "amenity": "school",
+        "institution_type": "ICSE Girls Academy",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "07:30 - 15:30 IST",
+        "address": "St. Mark's Road / Residency Road",
+        "center": [
+          77.6033,
+          12.9691
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.605057,
+              12.9691
+            ],
+            [
+              77.604255,
+              12.970711
+            ],
+            [
+              77.602297,
+              12.970793
+            ],
+            [
+              77.601291,
+              12.9691
+            ],
+            [
+              77.602341,
+              12.967481
+            ],
+            [
+              77.604184,
+              12.967608
+            ],
+            [
+              77.605057,
+              12.9691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-003",
+      "properties": {
+        "zone_id": "BLR-SCH-003",
+        "name": "St. Joseph's Boys' High School",
+        "amenity": "school",
+        "institution_type": "ICSE Senior Secondary",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "07:45 - 15:45 IST",
+        "address": "Museum Road, Shanthala Nagar",
+        "center": [
+          77.6038,
+          12.9734
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.605464,
+              12.9734
+            ],
+            [
+              77.604705,
+              12.974927
+            ],
+            [
+              77.60285,
+              12.975004
+            ],
+            [
+              77.601897,
+              12.9734
+            ],
+            [
+              77.602891,
+              12.971866
+            ],
+            [
+              77.604638,
+              12.971986
+            ],
+            [
+              77.605464,
+              12.9734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-004",
+      "properties": {
+        "zone_id": "BLR-SCH-004",
+        "name": "National Public School (Indiranagar)",
+        "amenity": "school",
+        "institution_type": "CBSE Affiliated K-12",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 15:00 IST",
+        "address": "12th A Main, HAL 2nd Stage, Indiranagar",
+        "center": [
+          77.6433,
+          12.9698
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.644964,
+              12.9698
+            ],
+            [
+              77.644205,
+              12.971327
+            ],
+            [
+              77.64235,
+              12.971404
+            ],
+            [
+              77.641397,
+              12.9698
+            ],
+            [
+              77.642391,
+              12.968266
+            ],
+            [
+              77.644138,
+              12.968386
+            ],
+            [
+              77.644964,
+              12.9698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-005",
+      "properties": {
+        "zone_id": "BLR-SCH-005",
+        "name": "National Public School (Koramangala)",
+        "amenity": "school",
+        "institution_type": "CBSE Senior Secondary",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 15:00 IST",
+        "address": "National Games Village, Koramangala",
+        "center": [
+          77.6214,
+          12.9392
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.623064,
+              12.9392
+            ],
+            [
+              77.622304,
+              12.940727
+            ],
+            [
+              77.62045,
+              12.940804
+            ],
+            [
+              77.619497,
+              12.9392
+            ],
+            [
+              77.620491,
+              12.937666
+            ],
+            [
+              77.622237,
+              12.937786
+            ],
+            [
+              77.623064,
+              12.9392
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-006",
+      "properties": {
+        "zone_id": "BLR-SCH-006",
+        "name": "National Public School (Rajajinagar)",
+        "amenity": "school",
+        "institution_type": "CBSE K-12 Academy",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 15:00 IST",
+        "address": "5th Block, Rajajinagar",
+        "center": [
+          77.554,
+          12.988
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.555664,
+              12.988
+            ],
+            [
+              77.554905,
+              12.989527
+            ],
+            [
+              77.55305,
+              12.989604
+            ],
+            [
+              77.552096,
+              12.988
+            ],
+            [
+              77.553091,
+              12.986466
+            ],
+            [
+              77.554838,
+              12.986586
+            ],
+            [
+              77.555664,
+              12.988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-007",
+      "properties": {
+        "zone_id": "BLR-SCH-007",
+        "name": "Bethany High School (Koramangala)",
+        "amenity": "school",
+        "institution_type": "ICSE K-12 High School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "07:45 - 15:30 IST",
+        "address": "8th Main, 4th Block, Koramangala",
+        "center": [
+          77.6254,
+          12.9348
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.627156,
+              12.9348
+            ],
+            [
+              77.626355,
+              12.936411
+            ],
+            [
+              77.624397,
+              12.936493
+            ],
+            [
+              77.623391,
+              12.9348
+            ],
+            [
+              77.624441,
+              12.933181
+            ],
+            [
+              77.626284,
+              12.933308
+            ],
+            [
+              77.627156,
+              12.9348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-008",
+      "properties": {
+        "zone_id": "BLR-SCH-008",
+        "name": "Frank Anthony Public School",
+        "amenity": "school",
+        "institution_type": "Anglo-Indian Day School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 15:30 IST",
+        "address": "Cambridge Road, Halasuru (Ulsoor)",
+        "center": [
+          77.6245,
+          12.9732
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.626349,
+              12.9732
+            ],
+            [
+              77.625505,
+              12.974896
+            ],
+            [
+              77.623444,
+              12.974982
+            ],
+            [
+              77.622385,
+              12.9732
+            ],
+            [
+              77.62349,
+              12.971495
+            ],
+            [
+              77.625431,
+              12.971629
+            ],
+            [
+              77.626349,
+              12.9732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-009",
+      "properties": {
+        "zone_id": "BLR-SCH-009",
+        "name": "Army Public School (Kamaraj Road)",
+        "amenity": "school",
+        "institution_type": "AWES CBSE Senior Secondary",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "07:30 - 14:30 IST",
+        "address": "Kamaraj Road, FM Cariappa Colony",
+        "center": [
+          77.6148,
+          12.9792
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.616834,
+              12.9792
+            ],
+            [
+              77.615906,
+              12.981066
+            ],
+            [
+              77.613639,
+              12.98116
+            ],
+            [
+              77.612473,
+              12.9792
+            ],
+            [
+              77.613689,
+              12.977325
+            ],
+            [
+              77.615824,
+              12.977472
+            ],
+            [
+              77.616834,
+              12.9792
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-010",
+      "properties": {
+        "zone_id": "BLR-SCH-010",
+        "name": "Baldwin Boys' High School",
+        "amenity": "school",
+        "institution_type": "Methodist ICSE Boarding & Day School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "07:45 - 15:30 IST",
+        "address": "14 Hosur Road, Richmond Town",
+        "center": [
+          77.6035,
+          12.9642
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.605256,
+              12.9642
+            ],
+            [
+              77.604455,
+              12.965811
+            ],
+            [
+              77.602497,
+              12.965893
+            ],
+            [
+              77.601491,
+              12.9642
+            ],
+            [
+              77.602541,
+              12.962581
+            ],
+            [
+              77.604384,
+              12.962708
+            ],
+            [
+              77.605256,
+              12.9642
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-011",
+      "properties": {
+        "zone_id": "BLR-SCH-011",
+        "name": "Baldwin Girls' High School",
+        "amenity": "school",
+        "institution_type": "ICSE Girls High School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "07:45 - 15:30 IST",
+        "address": "90 Rhenius Street, Richmond Town",
+        "center": [
+          77.6008,
+          12.9631
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.602464,
+              12.9631
+            ],
+            [
+              77.601704,
+              12.964627
+            ],
+            [
+              77.59985,
+              12.964704
+            ],
+            [
+              77.598897,
+              12.9631
+            ],
+            [
+              77.599891,
+              12.961566
+            ],
+            [
+              77.601638,
+              12.961686
+            ],
+            [
+              77.602464,
+              12.9631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-012",
+      "properties": {
+        "zone_id": "BLR-SCH-012",
+        "name": "Sophia High School",
+        "amenity": "school",
+        "institution_type": "Catholic ICSE Girls School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 15:00 IST",
+        "address": "70 Palace Road, High Grounds",
+        "center": [
+          77.5878,
+          12.9885
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.589557,
+              12.9885
+            ],
+            [
+              77.588755,
+              12.990111
+            ],
+            [
+              77.586797,
+              12.990193
+            ],
+            [
+              77.585791,
+              12.9885
+            ],
+            [
+              77.586841,
+              12.986881
+            ],
+            [
+              77.588684,
+              12.987008
+            ],
+            [
+              77.589557,
+              12.9885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-013",
+      "properties": {
+        "zone_id": "BLR-SCH-013",
+        "name": "The Cathedral High School",
+        "amenity": "school",
+        "institution_type": "ICSE Co-Educational School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 15:15 IST",
+        "address": "63 Richmond Road",
+        "center": [
+          77.608,
+          12.9664
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.609664,
+              12.9664
+            ],
+            [
+              77.608904,
+              12.967927
+            ],
+            [
+              77.60705,
+              12.968004
+            ],
+            [
+              77.606097,
+              12.9664
+            ],
+            [
+              77.607091,
+              12.964866
+            ],
+            [
+              77.608838,
+              12.964986
+            ],
+            [
+              77.609664,
+              12.9664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-014",
+      "properties": {
+        "zone_id": "BLR-SCH-014",
+        "name": "Clarence High School",
+        "amenity": "school",
+        "institution_type": "Minority ICSE School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 15:30 IST",
+        "address": "Pottery Road, Richards Town",
+        "center": [
+          77.618,
+          13.0035
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.619757,
+              13.0035
+            ],
+            [
+              77.618955,
+              13.005111
+            ],
+            [
+              77.616997,
+              13.005193
+            ],
+            [
+              77.615991,
+              13.0035
+            ],
+            [
+              77.61704,
+              13.001881
+            ],
+            [
+              77.618884,
+              13.002008
+            ],
+            [
+              77.619757,
+              13.0035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-015",
+      "properties": {
+        "zone_id": "BLR-SCH-015",
+        "name": "St. Germain High School",
+        "amenity": "school",
+        "institution_type": "Anglo-Indian ICSE School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 15:30 IST",
+        "address": "Promenade Road, Frazer Town",
+        "center": [
+          77.6142,
+          12.998
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.616049,
+              12.998
+            ],
+            [
+              77.615205,
+              12.999696
+            ],
+            [
+              77.613144,
+              12.999782
+            ],
+            [
+              77.612085,
+              12.998
+            ],
+            [
+              77.61319,
+              12.996295
+            ],
+            [
+              77.615131,
+              12.996429
+            ],
+            [
+              77.616049,
+              12.998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-016",
+      "properties": {
+        "zone_id": "BLR-SCH-016",
+        "name": "The International School Bangalore (TISB)",
+        "amenity": "school",
+        "institution_type": "IB & IGCSE International Boarding School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 16:00 IST",
+        "address": "NAFL Valley, Whitefield-Sarjapur Road",
+        "center": [
+          77.749,
+          12.8715
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.752234,
+              12.8715
+            ],
+            [
+              77.750758,
+              12.874469
+            ],
+            [
+              77.747153,
+              12.874618
+            ],
+            [
+              77.7453,
+              12.8715
+            ],
+            [
+              77.747233,
+              12.868517
+            ],
+            [
+              77.750628,
+              12.868751
+            ],
+            [
+              77.752234,
+              12.8715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-017",
+      "properties": {
+        "zone_id": "BLR-SCH-017",
+        "name": "Greenwood High International School",
+        "amenity": "school",
+        "institution_type": "IB, IGCSE & ICSE International School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 15:30 IST",
+        "address": "Chikkawadayarapura, Near Varthur Sarjapur Road",
+        "center": [
+          77.742,
+          12.8942
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.744957,
+              12.8942
+            ],
+            [
+              77.743608,
+              12.896914
+            ],
+            [
+              77.740312,
+              12.897051
+            ],
+            [
+              77.738617,
+              12.8942
+            ],
+            [
+              77.740385,
+              12.891473
+            ],
+            [
+              77.743489,
+              12.891687
+            ],
+            [
+              77.744957,
+              12.8942
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-018",
+      "properties": {
+        "zone_id": "BLR-SCH-018",
+        "name": "Inventure Academy",
+        "amenity": "school",
+        "institution_type": "Progressive International School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 15:30 IST",
+        "address": "Whitefield-Sarjapur Road, Chikka Tirupathi",
+        "center": [
+          77.7485,
+          12.879
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.751272,
+              12.879
+            ],
+            [
+              77.750007,
+              12.881544
+            ],
+            [
+              77.746917,
+              12.881673
+            ],
+            [
+              77.745329,
+              12.879
+            ],
+            [
+              77.746986,
+              12.876443
+            ],
+            [
+              77.749895,
+              12.876644
+            ],
+            [
+              77.751272,
+              12.879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-019",
+      "properties": {
+        "zone_id": "BLR-SCH-019",
+        "name": "Vidyashilp Academy",
+        "amenity": "school",
+        "institution_type": "Experiential ICSE Academy",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 15:30 IST",
+        "address": "125 Off Yelahanka-Aero Road, Near RMZ Galleria",
+        "center": [
+          77.596,
+          13.118
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.59859,
+              13.118
+            ],
+            [
+              77.597408,
+              13.120375
+            ],
+            [
+              77.594521,
+              13.120494
+            ],
+            [
+              77.593037,
+              13.118
+            ],
+            [
+              77.594585,
+              13.115614
+            ],
+            [
+              77.597304,
+              13.115801
+            ],
+            [
+              77.59859,
+              13.118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-020",
+      "properties": {
+        "zone_id": "BLR-SCH-020",
+        "name": "Canadian International School (CIS)",
+        "amenity": "school",
+        "institution_type": "International Baccalaureate (IB) World School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:15 - 15:30 IST",
+        "address": "4 and 20 Manchenahalli, Yelahanka",
+        "center": [
+          77.5975,
+          13.136
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.600183,
+              13.136
+            ],
+            [
+              77.598958,
+              13.13846
+            ],
+            [
+              77.595968,
+              13.138583
+            ],
+            [
+              77.594431,
+              13.136
+            ],
+            [
+              77.596035,
+              13.133528
+            ],
+            [
+              77.59885,
+              13.133722
+            ],
+            [
+              77.600183,
+              13.136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-021",
+      "properties": {
+        "zone_id": "BLR-SCH-021",
+        "name": "Mallya Aditi International School",
+        "amenity": "school",
+        "institution_type": "Private Co-Educational International School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 15:00 IST",
+        "address": "Yelahanka New Town",
+        "center": [
+          77.594,
+          13.104
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.59622,
+              13.104
+            ],
+            [
+              77.595207,
+              13.106036
+            ],
+            [
+              77.592733,
+              13.106138
+            ],
+            [
+              77.591461,
+              13.104
+            ],
+            [
+              77.592787,
+              13.101954
+            ],
+            [
+              77.595117,
+              13.102115
+            ],
+            [
+              77.59622,
+              13.104
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-022",
+      "properties": {
+        "zone_id": "BLR-SCH-022",
+        "name": "Delhi Public School (Bangalore South)",
+        "amenity": "school",
+        "institution_type": "CBSE Senior Secondary School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 15:00 IST",
+        "address": "11th KM, Bikashipura, Kanakapura Road",
+        "center": [
+          77.538,
+          12.8745
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.540588,
+              12.8745
+            ],
+            [
+              77.539406,
+              12.876875
+            ],
+            [
+              77.536523,
+              12.876994
+            ],
+            [
+              77.53504,
+              12.8745
+            ],
+            [
+              77.536587,
+              12.872114
+            ],
+            [
+              77.539302,
+              12.872301
+            ],
+            [
+              77.540588,
+              12.8745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-023",
+      "properties": {
+        "zone_id": "BLR-SCH-023",
+        "name": "Delhi Public School (Bangalore East)",
+        "amenity": "school",
+        "institution_type": "CBSE Senior Secondary School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "CRITICAL",
+        "active_hours": "08:00 - 15:00 IST",
+        "address": "Survey No 43/1B, Sulikunte Village, Dommasandra",
+        "center": [
+          77.731,
+          12.883
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.73368,
+              12.883
+            ],
+            [
+              77.732457,
+              12.88546
+            ],
+            [
+              77.72947,
+              12.885583
+            ],
+            [
+              77.727934,
+              12.883
+            ],
+            [
+              77.729536,
+              12.880528
+            ],
+            [
+              77.732349,
+              12.880722
+            ],
+            [
+              77.73368,
+              12.883
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-024",
+      "properties": {
+        "zone_id": "BLR-SCH-024",
+        "name": "Presidency School (Bangalore South)",
+        "amenity": "school",
+        "institution_type": "CBSE Affiliated School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 15:30 IST",
+        "address": "Bilekahalli, Off Bannerghatta Road",
+        "center": [
+          77.603,
+          12.894
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.604848,
+              12.894
+            ],
+            [
+              77.604005,
+              12.895696
+            ],
+            [
+              77.601945,
+              12.895782
+            ],
+            [
+              77.600886,
+              12.894
+            ],
+            [
+              77.60199,
+              12.892295
+            ],
+            [
+              77.60393,
+              12.892429
+            ],
+            [
+              77.604848,
+              12.894
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-025",
+      "properties": {
+        "zone_id": "BLR-SCH-025",
+        "name": "The Brigade School (JP Nagar)",
+        "amenity": "school",
+        "institution_type": "ICSE School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 15:00 IST",
+        "address": "Brigade Millennium Township, 7th Phase, JP Nagar",
+        "center": [
+          77.582,
+          12.891
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.583941,
+              12.891
+            ],
+            [
+              77.583055,
+              12.892781
+            ],
+            [
+              77.580892,
+              12.892871
+            ],
+            [
+              77.57978,
+              12.891
+            ],
+            [
+              77.58094,
+              12.88921
+            ],
+            [
+              77.582977,
+              12.889351
+            ],
+            [
+              77.583941,
+              12.891
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-026",
+      "properties": {
+        "zone_id": "BLR-SCH-026",
+        "name": "Ekya School (JP Nagar)",
+        "amenity": "school",
+        "institution_type": "Concept-Driven ICSE School",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 15:00 IST",
+        "address": "24th Main Road, JP Nagar 7th Phase",
+        "center": [
+          77.584,
+          12.8935
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.585756,
+              12.8935
+            ],
+            [
+              77.584954,
+              12.895111
+            ],
+            [
+              77.582997,
+              12.895193
+            ],
+            [
+              77.581991,
+              12.8935
+            ],
+            [
+              77.583041,
+              12.891881
+            ],
+            [
+              77.584884,
+              12.892008
+            ],
+            [
+              77.585756,
+              12.8935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zone-blr-sch-027",
+      "properties": {
+        "zone_id": "BLR-SCH-027",
+        "name": "Global Indian International School (GIIS)",
+        "amenity": "school",
+        "institution_type": "CBSE SMART Campus",
+        "speed_limit_kmh": 25,
+        "speed_limit_mph": 15,
+        "risk_level": "HIGH",
+        "active_hours": "08:00 - 15:30 IST",
+        "address": "5th Cross, Gottigere, Bannerghatta Road",
+        "center": [
+          77.592,
+          12.863
+        ],
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.594033,
+              12.863
+            ],
+            [
+              77.593105,
+              12.864866
+            ],
+            [
+              77.590839,
+              12.86496
+            ],
+            [
+              77.589675,
+              12.863
+            ],
+            [
+              77.59089,
+              12.861125
+            ],
+            [
+              77.593023,
+              12.861272
+            ],
+            [
+              77.594033,
+              12.863
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

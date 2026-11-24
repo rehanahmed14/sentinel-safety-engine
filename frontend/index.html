@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Sentinel | Geo-Fence Safety & Compliance Engine</title>
+    <meta name="description" content="Live telemetry dashboard cross-referencing real-time vehicle GPS traces with geo-fenced high-risk school zones, instantly flagging active violations." />
+    <!-- DNS prefetch & Preconnect Google Maps & Fonts for instant loading -->
+    <link rel="preconnect" href="https://maps.googleapis.com">
+    <link rel="preconnect" href="https://maps.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="https://maps.googleapis.com">
+    <link rel="dns-prefetch" href="https://maps.gstatic.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-obsidian-900 text-gray-100 antialiased font-sans selection:bg-sentinel-cyan/20 selection:text-sentinel-cyan overflow-hidden w-screen h-screen">
+    <div id="root" class="w-full h-full"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
