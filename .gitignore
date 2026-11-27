@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build outputs
+dist/
+build/
+frontend/dist/
+
+# Environment and Credentials
+.env
+.env.local
+.env.*.local
+*.pem
+credentials
+~/.embarko
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Archives
+*.tar.gz
+*.zip
