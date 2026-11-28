@@ -457,6 +457,15 @@ asyncio.run(test())
 
 ---
 
+## 👥 Engineering Team & Subsystem Ownership
+
+| Team Member | Engineering Role | Key Subsystems & Files Owned |
+| :--- | :--- | :--- |
+| **Rehan Ahmed**<br/>([@rehanahmed14](https://github.com/rehanahmed14)) | **Backend Engine, Spatial GIS & Telemetry Stream** | • `backend/services/geofence_engine.py` (Ray-Casting Point-in-Polygon & Haversine speed limits)<br/>• `backend/services/telemetry_streamer.py` (High-frequency GPS simulation broadcast)<br/>• `backend/data/bengaluru_schools.geojson` (53 School & college spatial boundaries)<br/>• `backend/main.py` (FastAPI REST API and bidirectional WebSocket server)<br/>• `frontend/src/components/map/UniversalSentinelMap.tsx` (CartoDB Dark Matter & Google fallback) |
+| **Sanjana MK**<br/>([@MKSanjana14](https://github.com/MKSanjana14)) | **Frontend UI, Sentinel Control Tower & Cloud DevOps** | • `frontend/src/components/layout/ModernControlTowerLayout.tsx` (Obsidian glassmorphism layout)<br/>• `frontend/src/components/fleet/FleetRoster.tsx` & `DriverRideSheet.tsx` (Uber-style driver sheet)<br/>• `frontend/src/components/feed/ComplianceDrawer.tsx` (Audit log feed, severity filters, CSV export)<br/>• `frontend/src/utils/audio.ts` (Web Audio API synthesized dual-tone warning siren)<br/>• `Dockerfile`, `render.yaml`, `build.sh` (Multi-stage containerization & Render deployment) |
+
+---
+
 ## 🛡️ License
 
 This project is licensed under the **MIT License**. Free for commercial, institutional, and municipal traffic safety research and deployments.
